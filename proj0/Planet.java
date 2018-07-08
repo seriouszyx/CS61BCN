@@ -108,7 +108,13 @@ public class Planet {
 		return yForce;
 	}
 
-
+	/**
+	 *  Calculate how much the forces exerted on the planet will cause that planet 
+	 *  to accelerate, and the resulting change in the planet’s velocity 
+	 *  and position in a small period of time dt.
+	 *  @param double,double,double a small period of time dt , x- and y- forces
+	 *
+	 */
 	public void update(double dt, double fX, double fY) {
 		xxVel += dt * fX / mass;
 		yyVel += dt * fY / mass;
