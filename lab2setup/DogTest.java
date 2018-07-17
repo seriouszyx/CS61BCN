@@ -8,9 +8,12 @@ public class DogTest {
         assertEquals("yip", d.noise());
     }
 
+
     @Test
     public void testLarge() {
         Dog d = new Dog(20);
         assertEquals("bark", d.noise());
     }
 }
+
+
