@@ -1,3 +1,5 @@
+package Flik;
+
 public class HorribleSteve {
     public static void main(String [] args) {
         int i = 0;

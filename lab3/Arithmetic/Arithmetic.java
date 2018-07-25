@@ -1,3 +1,5 @@
+package Arithmetic;
+
 public class Arithmetic {
     /** Computes product of two ints */
 
@@ -8,6 +10,6 @@ public class Arithmetic {
     /** Computes sum of two ints (incorrectly) */
 
     public static int sum(int a, int b) {
-        return a * b;
+        return a + b;
     }   
 }
