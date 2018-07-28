@@ -8,7 +8,7 @@ A:
 
 Q: What's something you felt proud of in your code, if anything?
 
-A:
+A:我设计resize()等一系列函数时，并没有将所有代码都写在一个函数中，而是分开编写，不同条件进行不同的操作，并且抓住了capacity这一关键属性，各个函数功能明确而不显得冗杂。
 
 Q: What's something that was particularly inelegant in your code, if anything?
 
@@ -24,7 +24,7 @@ A:
 
 Q: If you wrote ArrayDeque again, what would you do differently, if anything?
 
-A:
+A:代码中有几处使用到了循环语句，即对deque有值范围的遍历，我觉得可以提取出一个函数来实现这个功能。
 
 -----
 
@@ -36,7 +36,7 @@ A:
 
 Q: What's something you felt proud of in your code, if anything?
 
-A:
+A:我认为这个类的实现细节在于要双向考虑deque，之前只写一个方向，在Visualizer中发现问题，并及时改正。
 
 Q: What's something that was particularly inelegant in your code, if anything?
 
@@ -52,7 +52,7 @@ A:
 
 Q: If you wrote LinkedListDeque again, what would you do differently, if anything?
 
-A:
+A:我认为get方法的递归版本并不巧妙，虽然实现了功能，但设计方面比较笨拙，核心思想仍是迭代。
 
 -----
 
