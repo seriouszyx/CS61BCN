@@ -4,8 +4,8 @@ UC Berkeley Data Structures &amp; Algorithms class  (Spring 2018)
 
 # Translation progress
 
-- [x]  Welcome to CS61B
-- [ ] Creating and Defining Classes
+- [x] [Welcome to CS61B](https://www.bilibili.com/video/BV12p4y1H7Bd)
+- [x] [Creating and Defining Classes](https://www.bilibili.com/video/BV1RB4y1A7uo)
 - [ ] Lists1 : The Mystery of the Walrus
 - [ ] Lists2 : SLLists and Avoiding Nakedness
 - [ ] Lists3 : DLLists and Arrays
