@@ -50,3 +50,4 @@ $RECYCLE.BIN/
 *.lnk
 *.mp4
 *.srt
+!*.ass
