@@ -6,8 +6,8 @@ UC Berkeley Data Structures &amp; Algorithms class  (Spring 2018)
 
 - [x] [Welcome to CS61B](https://www.bilibili.com/video/BV12p4y1H7Bd)
 - [x] [Creating and Defining Classes](https://www.bilibili.com/video/BV1RB4y1A7uo)
-- [ ] Lists1 : The Mystery of the Walrus
-- [ ] Lists2 : SLLists and Avoiding Nakedness
+- [x] [Lists1 : The Mystery of the Walrus](https://www.bilibili.com/video/BV1HK4y197H2)
+- [x] [Lists2 : SLLists and Avoiding Nakedness](https://www.bilibili.com/video/BV1hg411M7JM)
 - [ ] Lists3 : DLLists and Arrays
 - [ ] Lists4 : ALists
 - [ ] Testing
